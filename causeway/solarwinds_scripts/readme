@@ -1,0 +1,15 @@
+All the Perl & Bash files in this folder should be copied to /etc/scripts dir on all interact prod & staging servers.
+
+anonymous_pages.pl
+num_packages_requiring_updates.sh
+total_context_switches_after_boot.pl
+blocks_received_from_block_device.pl
+open_ports.sh
+total_interrupts_after_boot.pl
+blocks_sent_to_block_device.pl
+user_change_detected.sh
+dirty_pages.pl
+root_login_detected.sh
+user_login_real_time.sh
+num_days_since_last_update.sh
+runQcheck.pl

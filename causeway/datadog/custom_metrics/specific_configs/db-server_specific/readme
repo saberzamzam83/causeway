@@ -1,0 +1,6 @@
+The file in this directory should be copied to the Interact db servers only. Prod & Staging
+
+
+The directory below should be placed in the /etc/datadog-agent/conf.d directory on the interact-db servers
+
+Process.d   # Contains process check for mongo-db and firewalld processes
