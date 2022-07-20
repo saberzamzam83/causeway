@@ -1,0 +1,6 @@
+Files in this directory should be copied to the Interact app server staging only.
+
+
+The directories below should be placed in the /etc/datadog-agent/conf.d directory on the interact-app servers
+
+process.d  # Check Node & firewalld processes
